@@ -13,8 +13,8 @@ Text can be styled as italic,  bold or strikethrough.
 ## Strikethrough
 * ~~Some Sample Text~~
 
-## Bold and Italic
-* ***First Method***
-* **_Second Method_**
-* *__Third Method__*
+## The Combination
+* ~~***First Method***~~
+* ~~**_Second Method_**~~
+* ~~*__Third Method__*~~
 
