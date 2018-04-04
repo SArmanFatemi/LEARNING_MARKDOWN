@@ -33,3 +33,8 @@ public static void SomeFunction()
     //Some Action done here
 }
 ```
+
+```
+No language specified => No syntax highlighting. 
+And also nothing compiled here such as <br />
+```

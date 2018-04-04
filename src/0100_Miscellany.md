@@ -25,5 +25,5 @@ Or
 
 Col 1 | Col2 | Col3
 :-- | :-: | --:
-blah | blah | blah
+Left-aligned | Centered | Right-aligned
 blah | blah | blah
